@@ -1,0 +1,2 @@
+line : 1098.
+	variable lu is used without being initialised.
